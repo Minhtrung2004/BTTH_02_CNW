@@ -46,7 +46,7 @@
                         <div class="overflow-hidden" style="width: 735px;">
                             <div id="note" class="ps-2">
                                 <img src="../../img/features-fashion.jpg" class="img-fluid rounded-circle border border-3 border-primary me-2" style="width: 30px; height: 30px;" alt="">
-                                =======
+
                                 <img src="img/features-fashion.jpg" class="img-fluid rounded-circle border border-3 border-primary me-2" style="width: 30px; height: 30px;" alt="">
 
                                 <a href="#">
@@ -101,7 +101,7 @@
                             <div class="d-flex">
 
                                 <img src="../../img/weather-icon.png" class="img-fluid w-100 me-2" alt="">
-                                =======
+
                                 <img src="img/weather-icon.png" class="img-fluid w-100 me-2" alt="">
 
                                 <div class="d-flex align-items-center">
@@ -153,7 +153,7 @@
                                 <div class="overflow-hidden rounded-circle">
 
                                     <img src="../../img/features-sports-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                    =======
+
                                     <img src="img/features-sports-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                 </div>
@@ -178,7 +178,7 @@
                                 <div class="overflow-hidden rounded-circle">
 
                                     <img src="../../img/features-technology.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                    =======
+
                                     <img src="img/features-technology.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                 </div>
@@ -203,7 +203,7 @@
                                 <div class="overflow-hidden rounded-circle">
 
                                     <img src="../../img/features-fashion.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                    =======
+
                                     <img src="img/features-fashion.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                 </div>
@@ -228,7 +228,7 @@
                                 <div class="overflow-hidden rounded-circle">
 
                                     <img src="../../img/features-life-style.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                    =======
+
                                     <img src="img/features-life-style.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                 </div>
@@ -260,7 +260,7 @@
                     <div class="position-relative overflow-hidden rounded">
 
                         <img src="../../img/news-1.jpg" class="img-fluid rounded img-zoomin w-100" alt="">
-                        =======
+
                         <img src="img/news-1.jpg" class="img-fluid rounded img-zoomin w-100" alt="">
 
                         <div class="d-flex justify-content-center px-4 position-absolute flex-wrap" style="bottom: 10px; left: 0;">
@@ -284,7 +284,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/news-2.jpg" class="img-fluid rounded img-zoomin w-100" alt="">
-                                    =======
+
                                     <img src="img/news-2.jpg" class="img-fluid rounded img-zoomin w-100" alt="">
 
                                 </div>
@@ -306,7 +306,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/news-3.jpg" class="img-fluid rounded img-zoomin w-100" alt="">
-                                    =======
+
                                     <img src="img/news-3.jpg" class="img-fluid rounded img-zoomin w-100" alt="">
 
                                 </div>
@@ -324,7 +324,7 @@
                                         <div class="overflow-hidden rounded">
 
                                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                         </div>
@@ -344,7 +344,7 @@
                                         <div class="overflow-hidden rounded">
 
                                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                         </div>
@@ -364,7 +364,7 @@
                                         <div class="overflow-hidden rounded">
 
                                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                         </div>
@@ -384,7 +384,7 @@
                                         <div class="overflow-hidden rounded">
 
                                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                         </div>
@@ -404,7 +404,7 @@
                                         <div class="overflow-hidden rounded">
 
                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                         </div>
@@ -424,7 +424,7 @@
                                         <div class="overflow-hidden rounded">
 
                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                         </div>
@@ -465,7 +465,7 @@
                     <div class="rounded">
 
                         <img src="../../img/banner-img.jpg" class="img-fluid rounded w-100 rounded" alt="">
-                        =======
+
                         <img src="img/banner-img.jpg" class="img-fluid rounded w-100 rounded" alt="">
 
                     </div>
@@ -486,7 +486,7 @@
                         <div class="rounded-top overflow-hidden">
 
                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                            =======
+
                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                         </div>
@@ -504,7 +504,7 @@
                         <div class="rounded-top overflow-hidden">
 
                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                            =======
+
                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                         </div>
@@ -522,7 +522,7 @@
                         <div class="rounded-top overflow-hidden">
 
                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                            =======
+
                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                         </div>
@@ -540,7 +540,7 @@
                         <div class="rounded-top overflow-hidden">
 
                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                            =======
+
                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                         </div>
@@ -558,7 +558,7 @@
                         <div class="rounded-top overflow-hidden">
 
                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                            =======
+
                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                         </div>
@@ -620,7 +620,7 @@
                                         <div class="position-relative rounded overflow-hidden">
 
                                             <img src="../../img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                             <div class="position-absolute text-white px-4 py-2 bg-primary rounded" style="top: 20px; right: 20px;">
@@ -647,7 +647,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -667,7 +667,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -687,7 +687,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -707,7 +707,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -727,7 +727,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -751,7 +751,7 @@
                                         <div class="position-relative rounded overflow-hidden">
 
                                             <img src="../../img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                             <div class="position-absolute text-white px-4 py-2 bg-primary rounded" style="top: 20px; right: 20px;">
@@ -778,7 +778,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -798,7 +798,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -818,7 +818,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -838,7 +838,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -858,7 +858,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -882,7 +882,7 @@
                                         <div class="position-relative rounded overflow-hidden">
 
                                             <img src="../../img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                             <div class="position-absolute text-white px-4 py-2 bg-primary rounded" style="top: 20px; right: 20px;">
@@ -909,7 +909,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -929,7 +929,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -949,7 +949,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -969,7 +969,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -989,7 +989,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1013,7 +1013,7 @@
                                         <div class="position-relative rounded overflow-hidden">
 
                                             <img src="../../img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                             <div class="position-absolute text-white px-4 py-2 bg-primary rounded" style="top: 20px; right: 20px;">
@@ -1040,7 +1040,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1060,7 +1060,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1080,7 +1080,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1100,7 +1100,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1120,7 +1120,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1144,7 +1144,7 @@
                                         <div class="position-relative rounded overflow-hidden">
 
                                             <img src="../../img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                            =======
+
                                             <img src="img/news-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                             <div class="position-absolute text-white px-4 py-2 bg-primary rounded" style="top: 20px; right: 20px;">
@@ -1171,7 +1171,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1191,7 +1191,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1211,7 +1211,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1231,7 +1231,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1251,7 +1251,7 @@
                                                         <div class="overflow-hidden rounded">
 
                                                             <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                                            =======
+
                                                             <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                                         </div>
@@ -1279,7 +1279,7 @@
                                     <div class="rounded-top overflow-hidden">
 
                                         <img src="../../img/news-7.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                                        =======
+
                                         <img src="img/news-7.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                                     </div>
@@ -1297,7 +1297,7 @@
                                     <div class="rounded-top overflow-hidden">
 
                                         <img src="../../img/news-6.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                                        =======
+
                                         <img src="img/news-6.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                                     </div>
@@ -1315,7 +1315,7 @@
                                     <div class="rounded-top overflow-hidden">
 
                                         <img src="../../img/news-3.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                                        =======
+
                                         <img src="img/news-3.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                                     </div>
@@ -1333,7 +1333,7 @@
                                     <div class="rounded-top overflow-hidden">
 
                                         <img src="../../img/news-4.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                                        =======
+
                                         <img src="img/news-4.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                                     </div>
@@ -1351,7 +1351,7 @@
                                     <div class="rounded-top overflow-hidden">
 
                                         <img src="../../img/news-5.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
-                                        =======
+
                                         <img src="img/news-5.jpg" class="img-zoomin img-fluid rounded-top w-100" alt="">
 
                                     </div>
@@ -1374,7 +1374,7 @@
                                     <div class="lifestyle-item rounded">
 
                                         <img src="../../img/lifestyle-1.jpg" class="img-fluid w-100 rounded" alt="">
-                                        =======
+
                                         <img src="img/lifestyle-1.jpg" class="img-fluid w-100 rounded" alt="">
 
                                         <div class="lifestyle-content">
@@ -1392,7 +1392,7 @@
                                     <div class="lifestyle-item rounded">
 
                                         <img src="../../img/lifestyle-2.jpg" class="img-fluid w-100 rounded" alt="">
-                                        =======
+
                                         <img src="img/lifestyle-2.jpg" class="img-fluid w-100 rounded" alt="">
 
                                         <div class="lifestyle-content">
@@ -1451,7 +1451,7 @@
                                                         <div class="overflow-hidden rounded-circle">
 
                                                             <img src="../../img/features-sports-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                                            =======
+
                                                             <img src="img/features-sports-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                                         </div>
@@ -1476,7 +1476,7 @@
                                                         <div class="overflow-hidden rounded-circle">
 
                                                             <img src="../../img/features-technology.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                                            =======
+
                                                             <img src="img/features-technology.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                                         </div>
@@ -1501,7 +1501,7 @@
                                                         <div class="overflow-hidden rounded-circle">
 
                                                             <img src="../../img/features-fashion.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                                            =======
+
                                                             <img src="img/features-fashion.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                                         </div>
@@ -1526,7 +1526,7 @@
                                                         <div class="overflow-hidden rounded-circle">
 
                                                             <img src="../../img/features-life-style.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                                            =======
+
                                                             <img src="img/features-life-style.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                                         </div>
@@ -1598,7 +1598,7 @@
                                             <div class="position-relative banner-2">
 
                                                 <img src="../../img/banner-2.jpg" class="img-fluid w-100 rounded" alt="">
-                                                =======
+
                                                 <img src="img/banner-2.jpg" class="img-fluid w-100 rounded" alt="">
 
                                                 <div class="text-center banner-content-2">
@@ -1663,7 +1663,7 @@
                                     <div class="rounded-circle border border-2 border-primary overflow-hidden">
 
                                         <img src="../../img/footer-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
-                                        =======
+
                                         <img src="img/footer-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
 
                                     </div>
@@ -1683,7 +1683,7 @@
                                     <div class="rounded-circle border border-2 border-primary overflow-hidden">
 
                                         <img src="../../img/footer-2.jpg" class="img-zoominimg-fluid rounded-circle w-100" alt="">
-                                        =======
+
                                         <img src="img/footer-2.jpg" class="img-zoominimg-fluid rounded-circle w-100" alt="">
 
                                     </div>
@@ -1718,7 +1718,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/footer-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                    =======
+
                                     <img src="img/footer-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                 </div>
@@ -1727,7 +1727,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/footer-2.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                    =======
+
                                     <img src="img/footer-2.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                 </div>
@@ -1736,7 +1736,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/footer-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                    =======
+
                                     <img src="img/footer-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                 </div>
@@ -1745,7 +1745,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/footer-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                    =======
+
                                     <img src="img/footer-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                 </div>
@@ -1754,7 +1754,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/footer-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                    =======
+
                                     <img src="img/footer-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                 </div>
@@ -1763,7 +1763,7 @@
                                 <div class="rounded overflow-hidden">
 
                                     <img src="../../img/footer-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
-                                    =======
+
                                     <img src="img/footer-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
 
                                 </div>
@@ -1811,7 +1811,7 @@
 
     <!-- Template Javascript -->
     <script src="../../js/app.js"></script>
-    =======
+
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
