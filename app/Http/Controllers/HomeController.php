@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        // Trả về view 'home' (resources/views/home.blade.php)
-        return view('home');
+        // Trả về file PHP index.php trong thư mục resources/views/home
+        return include resource_path('views/home/index.php');
     }
 }
