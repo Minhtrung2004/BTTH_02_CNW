@@ -26,18 +26,10 @@
     <link href="../../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="../../css/style.css" rel="stylesheet">
+    <link href="../../css/app.css" rel="stylesheet">
 </head>
 
 <body>
-
-    <!-- Spinner Start -->
-    <div id="spinner" class="show w-100 vh-100 bg-white position-fixed translate-middle top-50 start-50  d-flex align-items-center justify-content-center">
-        <div class="spinner-grow text-primary" role="status"></div>
-    </div>
-    <!-- Spinner End -->
-
-
     <!-- Navbar start -->
     <div class="container-fluid sticky-top px-0">
         <div class="container-fluid topbar bg-dark d-none d-lg-block">
@@ -52,7 +44,7 @@
                         </div>
                         <div class="overflow-hidden" style="width: 735px;">
                             <div id="note" class="ps-2">
-                                <img src="img/features-fashion.jpg" class="img-fluid rounded-circle border border-3 border-primary me-2" style="width: 30px; height: 30px;" alt="">
+                                <img src="../../img/features-fashion.jpg" class="img-fluid rounded-circle border border-3 border-primary me-2" style="width: 30px; height: 30px;" alt="">
                                 <a href="#">
                                     <p class="text-white mb-0 link-hover">Newsan unknown printer took a galley of type andscrambled Newsan.</p>
                                 </a>
@@ -103,7 +95,7 @@
                         </div>
                         <div class="d-flex flex-nowrap border-top pt-3 pt-xl-0">
                             <div class="d-flex">
-                                <img src="img/weather-icon.png" class="img-fluid w-100 me-2" alt="">
+                                <img src="../../img/weather-icon.png" class="img-fluid w-100 me-2" alt="">
                                 <div class="d-flex align-items-center">
                                     <strong class="fs-4 text-secondary">31°C</strong>
                                     <div class="d-flex flex-column ms-2" style="width: 150px;">
@@ -273,7 +265,7 @@
                             <a href="#">
                                 <div class="d-flex align-items-center">
                                     <div class="rounded-circle border border-2 border-primary overflow-hidden">
-                                        <img src="img/footer-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
+                                        <img src="../../img/footer-1.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
                                     </div>
                                     <div class="d-flex flex-column ps-4">
                                         <p class="text-uppercase text-white mb-3">Life Style</p>
@@ -289,7 +281,7 @@
                             <a href="#">
                                 <div class="d-flex align-items-center">
                                     <div class="rounded-circle border border-2 border-primary overflow-hidden">
-                                        <img src="img/footer-2.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
+                                        <img src="../../img/footer-2.jpg" class="img-zoomin img-fluid rounded-circle w-100" alt="">
                                     </div>
                                     <div class="d-flex flex-column ps-4">
                                         <p class="text-uppercase text-white mb-3">Sports</p>
@@ -320,32 +312,32 @@
                         <div class="row g-2">
                             <div class="col-4">
                                 <div class="rounded overflow-hidden">
-                                    <img src="img/footer-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
+                                    <img src="../../img/footer-1.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
                                 </div>
                             </div>
                             <div class="col-4">
                                 <div class="rounded overflow-hidden">
-                                    <img src="img/footer-2.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
+                                    <img src="../../img/footer-2.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
                                 </div>
                             </div>
                             <div class="col-4">
                                 <div class="rounded overflow-hidden">
-                                    <img src="img/footer-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
+                                    <img src="../../img/footer-3.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
                                 </div>
                             </div>
                             <div class="col-4">
                                 <div class="rounded overflow-hidden">
-                                    <img src="img/footer-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
+                                    <img src="../../img/footer-4.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
                                 </div>
                             </div>
                             <div class="col-4">
                                 <div class="rounded overflow-hidden">
-                                    <img src="img/footer-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
+                                    <img src="../../img/footer-5.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
                                 </div>
                             </div>
                             <div class="col-4">
                                 <div class="rounded overflow-hidden">
-                                    <img src="img/footer-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
+                                    <img src="../../img/footer-6.jpg" class="img-zoomin img-fluid rounded w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -384,8 +376,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="../../lib/waypoints/waypoints.min.js"></script>
+    <script src="../../lib/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- Template Javascript -->
     <script src="../../js/app.js"></script>
