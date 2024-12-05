@@ -14,5 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    // Trả về file PHP cụ thể
+    return include resource_path('views/home/index.php');
 });
